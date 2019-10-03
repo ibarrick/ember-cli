@@ -1,5 +1,5 @@
-FROM node:6.11.4
-MAINTAINER Dan Lynn <docker@danlynn.org>
+FROM node:8.16.1
+MAINTAINER Ian Barrick <ian@servisuite.com>
 
 # ember server on port 4200
 # livereload server on port 49153 (changed in v2.11.1 from 49152)
